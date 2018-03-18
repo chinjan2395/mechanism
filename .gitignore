@@ -1,0 +1,20 @@
+vendor/
+node_modules/
+public/backend/
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+storage/
+tests/
+
+
+# Laravel 5 & Lumen specific
+.env.*.php
+.env.php
+.env
+client_secret.json
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+
